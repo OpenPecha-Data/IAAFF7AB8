@@ -1,0 +1,612 @@
+id: IAAFF7AB8
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+source_file: null
+initial_creation_type: input
+imported: '2022-05-27T18:06:53.591738'
+last_modified: '2022-05-27T18:06:53.591768'
+parser: null
+source_metadata:
+  title: 'MSV 2,01: Vinayavibhaṅga'
+  language: bo
+  base:
+    fC64B:
+      title: CI_Vinayastotra
+      base_file: fC64B.txt
+      order: 1
+    f49B9:
+      title: CI_Introduction
+      base_file: f49B9.txt
+      order: 2
+    f41B1:
+      title: CI_Pārājika 1
+      base_file: f41B1.txt
+      order: 3
+    fAD7F:
+      title: CI_Pārājika 2
+      base_file: fAD7F.txt
+      order: 4
+    f3BB0:
+      title: CI_Pārājika 3
+      base_file: f3BB0.txt
+      order: 5
+    fD383:
+      title: CI_Pārājika 4
+      base_file: fD383.txt
+      order: 6
+    fCD5B:
+      title: CI_Saṃghāvaśeṣa 1
+      base_file: fCD5B.txt
+      order: 7
+    f66DB:
+      title: CI_Saṃghāvaśeṣa 2
+      base_file: f66DB.txt
+      order: 8
+    f3992:
+      title: CI_Saṃghāvaśeṣa 3
+      base_file: f3992.txt
+      order: 9
+    fB349:
+      title: CI_Saṃghāvaśeṣa 4
+      base_file: fB349.txt
+      order: 10
+    f2959:
+      title: CI_Saṃghāvaśeṣa 5
+      base_file: f2959.txt
+      order: 11
+    f244A:
+      title: CI_Saṃghāvaśeṣa 6
+      base_file: f244A.txt
+      order: 12
+    f01C0:
+      title: CI_Saṃghāvaśeṣa 7
+      base_file: f01C0.txt
+      order: 13
+    f0A8B:
+      title: CI_Saṃghāvaśeṣa 8
+      base_file: f0A8B.txt
+      order: 14
+    fDA29:
+      title: CI_Saṃghāvaśeṣa 9
+      base_file: fDA29.txt
+      order: 15
+    f3602:
+      title: CI_Saṃghāvaśeṣa 10
+      base_file: f3602.txt
+      order: 16
+    f3439:
+      title: CI_Saṃghāvaśeṣa 11
+      base_file: f3439.txt
+      order: 17
+    f88F8:
+      title: CI_Saṃghāvaśeṣa 12
+      base_file: f88F8.txt
+      order: 18
+    f0DB0:
+      title: CI_Saṃghāvaśeṣa 13
+      base_file: f0DB0.txt
+      order: 19
+    f1E1A:
+      title: CI_Aniyata 1
+      base_file: f1E1A.txt
+      order: 20
+    fBDF3:
+      title: CI_Aniyata 2
+      base_file: fBDF3.txt
+      order: 21
+    f8B2E:
+      title: CI_Naiḥsargika 1
+      base_file: f8B2E.txt
+      order: 22
+    fEFF7:
+      title: CI_Naiḥsargika 2
+      base_file: fEFF7.txt
+      order: 23
+    fCAA6:
+      title: CI_Naiḥsargika 3
+      base_file: fCAA6.txt
+      order: 24
+    f8F0E:
+      title: CI_Naiḥsargika 4
+      base_file: f8F0E.txt
+      order: 25
+    fA902:
+      title: CI_Naiḥsargika 5
+      base_file: fA902.txt
+      order: 26
+    f8E63:
+      title: CI_Naiḥsargika 6
+      base_file: f8E63.txt
+      order: 27
+    f3790:
+      title: CI_Naiḥsargika 7
+      base_file: f3790.txt
+      order: 28
+    f3395:
+      title: CI_Naiḥsargika 8
+      base_file: f3395.txt
+      order: 29
+    f4C3E:
+      title: CI_Naiḥsargika 9
+      base_file: f4C3E.txt
+      order: 30
+    fE477:
+      title: CI_Naiḥsargika 10
+      base_file: fE477.txt
+      order: 31
+    fF25E:
+      title: CI_Naiḥsargika 11
+      base_file: fF25E.txt
+      order: 32
+    fE2E2:
+      title: CI_Naiḥsargika 12
+      base_file: fE2E2.txt
+      order: 33
+    f774D:
+      title: CI_Naiḥsargika 13
+      base_file: f774D.txt
+      order: 34
+    f2296:
+      title: CI_Naiḥsargika 14
+      base_file: f2296.txt
+      order: 35
+    fF6F9:
+      title: CI_Naiḥsargika 15
+      base_file: fF6F9.txt
+      order: 36
+    f72FF:
+      title: CI_Naiḥsargika 16
+      base_file: f72FF.txt
+      order: 37
+    f8073:
+      title: CI_Naiḥsargika 17
+      base_file: f8073.txt
+      order: 38
+    fC465:
+      title: CI_Naiḥsargika 18
+      base_file: fC465.txt
+      order: 39
+    f4CCB:
+      title: CI_Naiḥsargika 19
+      base_file: f4CCB.txt
+      order: 40
+    f7B61:
+      title: CI_Naiḥsargika 20
+      base_file: f7B61.txt
+      order: 41
+    f8227:
+      title: CI_Naiḥsargika 21
+      base_file: f8227.txt
+      order: 42
+    f8D3A:
+      title: CI_Naiḥsargika 22
+      base_file: f8D3A.txt
+      order: 43
+    f7563:
+      title: CI_Naiḥsargika 23
+      base_file: f7563.txt
+      order: 44
+    f41B3:
+      title: CI_Naiḥsargika 24
+      base_file: f41B3.txt
+      order: 45
+    f94B3:
+      title: CI_Naiḥsargika 25
+      base_file: f94B3.txt
+      order: 46
+    f78D8:
+      title: CI_Naiḥsargika 26
+      base_file: f78D8.txt
+      order: 47
+    f0533:
+      title: CI_Naiḥsargika 27
+      base_file: f0533.txt
+      order: 48
+    f5BD0:
+      title: CI_Naiḥsargika 28
+      base_file: f5BD0.txt
+      order: 49
+    f254E:
+      title: CI_Naiḥsargika 29
+      base_file: f254E.txt
+      order: 50
+    f5060:
+      title: CI_Naiḥsargika 30
+      base_file: f5060.txt
+      order: 51
+    f44DE:
+      title: CI_Pāyantika 1
+      base_file: f44DE.txt
+      order: 52
+    f4965:
+      title: CI_Pāyantika 2
+      base_file: f4965.txt
+      order: 53
+    f8880:
+      title: CI_Pāyantika 3
+      base_file: f8880.txt
+      order: 54
+    f4699:
+      title: CI_Pāyantika 4
+      base_file: f4699.txt
+      order: 55
+    f9835:
+      title: CI_Pāyantika 5
+      base_file: f9835.txt
+      order: 56
+    f452D:
+      title: CI_Pāyantika 6
+      base_file: f452D.txt
+      order: 57
+    f048A:
+      title: CI_Pāyantika 7
+      base_file: f048A.txt
+      order: 58
+    f04DA:
+      title: CI_Pāyantika 8
+      base_file: f04DA.txt
+      order: 59
+    f7B1A:
+      title: CI_Pāyantika 9
+      base_file: f7B1A.txt
+      order: 60
+    f3815:
+      title: CI_Pāyantika 10
+      base_file: f3815.txt
+      order: 61
+    f40FF:
+      title: CI_Pāyantika 11
+      base_file: f40FF.txt
+      order: 62
+    f0A9D:
+      title: CI_Pāyantika 12
+      base_file: f0A9D.txt
+      order: 63
+    fDCE7:
+      title: CI_Pāyantika 13
+      base_file: fDCE7.txt
+      order: 64
+    f910C:
+      title: CI_Pāyantika 14
+      base_file: f910C.txt
+      order: 65
+    f4CBA:
+      title: CI_Pāyantika 15
+      base_file: f4CBA.txt
+      order: 66
+    f3FF5:
+      title: CI_Pāyantika 16
+      base_file: f3FF5.txt
+      order: 67
+    fBC2E:
+      title: CI_Pāyantika 17
+      base_file: fBC2E.txt
+      order: 68
+    fCFAC:
+      title: CI_Pāyantika 18
+      base_file: fCFAC.txt
+      order: 69
+    f5AE8:
+      title: CI_Pāyantika 19
+      base_file: f5AE8.txt
+      order: 70
+    f88CA:
+      title: CI_Pāyantika 20
+      base_file: f88CA.txt
+      order: 71
+    f1A16:
+      title: CI_Pāyantika 21
+      base_file: f1A16.txt
+      order: 72
+    f11EC:
+      title: CI_Pāyantika 22
+      base_file: f11EC.txt
+      order: 73
+    fD6A4:
+      title: CI_Pāyantika 23
+      base_file: fD6A4.txt
+      order: 74
+    fD956:
+      title: CI_Pāyantika 24
+      base_file: fD956.txt
+      order: 75
+    fBB42:
+      title: CI_Pāyantika 25
+      base_file: fBB42.txt
+      order: 76
+    f519D:
+      title: CI_Pāyantika 26
+      base_file: f519D.txt
+      order: 77
+    f7A74:
+      title: CI_Pāyantika 27
+      base_file: f7A74.txt
+      order: 78
+    fB4F4:
+      title: CI_Pāyantika 28
+      base_file: fB4F4.txt
+      order: 79
+    f9A96:
+      title: CI_Pāyantika 29
+      base_file: f9A96.txt
+      order: 80
+    f780A:
+      title: CI_Pāyantika 30
+      base_file: f780A.txt
+      order: 81
+    fD849:
+      title: CI_Pāyantika 31
+      base_file: fD849.txt
+      order: 82
+    fCDE3:
+      title: CI_Pāyantika 32
+      base_file: fCDE3.txt
+      order: 83
+    fD5A1:
+      title: CI_Pāyantika 33
+      base_file: fD5A1.txt
+      order: 84
+    f28D3:
+      title: CI_Pāyantika 34
+      base_file: f28D3.txt
+      order: 85
+    f8A20:
+      title: CI_Pāyantika 35
+      base_file: f8A20.txt
+      order: 86
+    f054B:
+      title: CI_Pāyantika 36
+      base_file: f054B.txt
+      order: 87
+    f393D:
+      title: CI_Pāyantika 37
+      base_file: f393D.txt
+      order: 88
+    f422F:
+      title: CI_Pāyantika 38
+      base_file: f422F.txt
+      order: 89
+    f7708:
+      title: CI_Pāyantika 39
+      base_file: f7708.txt
+      order: 90
+    f1DA1:
+      title: CI_Pāyantika 40
+      base_file: f1DA1.txt
+      order: 91
+    fDD13:
+      title: CI_Pāyantika 41
+      base_file: fDD13.txt
+      order: 92
+    fA791:
+      title: CI_Pāyantika 42
+      base_file: fA791.txt
+      order: 93
+    fAFBB:
+      title: CI_Pāyantika 43
+      base_file: fAFBB.txt
+      order: 94
+    f8806:
+      title: CI_Pāyantika 44
+      base_file: f8806.txt
+      order: 95
+    f06AA:
+      title: CI_Pāyantika 45
+      base_file: f06AA.txt
+      order: 96
+    f4285:
+      title: CI_Pāyantika 46
+      base_file: f4285.txt
+      order: 97
+    f959D:
+      title: CI_Pāyantika 47
+      base_file: f959D.txt
+      order: 98
+    fFBAD:
+      title: CI_Pāyantika 48
+      base_file: fFBAD.txt
+      order: 99
+    f4704:
+      title: CI_Pāyantika 49
+      base_file: f4704.txt
+      order: 100
+    fCAE6:
+      title: CI_Pāyantika 50
+      base_file: fCAE6.txt
+      order: 101
+    f1410:
+      title: CI_Pāyantika 51
+      base_file: f1410.txt
+      order: 102
+    f5ECE:
+      title: CI_Pāyantika 52
+      base_file: f5ECE.txt
+      order: 103
+    f5B6C:
+      title: CI_Pāyantika 53
+      base_file: f5B6C.txt
+      order: 104
+    fF2DA:
+      title: CI_Pāyantika 54
+      base_file: fF2DA.txt
+      order: 105
+    fC3FE:
+      title: CI_Pāyantika 55
+      base_file: fC3FE.txt
+      order: 106
+    fA90B:
+      title: CI_Pāyantika 56
+      base_file: fA90B.txt
+      order: 107
+    f4C27:
+      title: CI_Pāyantika 57
+      base_file: f4C27.txt
+      order: 108
+    f5ED1:
+      title: CI_Pāyantika 58
+      base_file: f5ED1.txt
+      order: 109
+    f82B7:
+      title: CI_Pāyantika 59
+      base_file: f82B7.txt
+      order: 110
+    f1FB4:
+      title: CI_Pāyantika 60
+      base_file: f1FB4.txt
+      order: 111
+    f454D:
+      title: CI_Pāyantika 61
+      base_file: f454D.txt
+      order: 112
+    fDD09:
+      title: CI_Pāyantika 62
+      base_file: fDD09.txt
+      order: 113
+    f5DBF:
+      title: CI_Pāyantika 63
+      base_file: f5DBF.txt
+      order: 114
+    fA595:
+      title: CI_Pāyantika 64
+      base_file: fA595.txt
+      order: 115
+    f1E9C:
+      title: CI_Pāyantika 65
+      base_file: f1E9C.txt
+      order: 116
+    f8CED:
+      title: CI_Pāyantika 66
+      base_file: f8CED.txt
+      order: 117
+    f6600:
+      title: CI_Pāyantika 67
+      base_file: f6600.txt
+      order: 118
+    f37CC:
+      title: CI_Pāyantika 68
+      base_file: f37CC.txt
+      order: 119
+    fE4F0:
+      title: CI_Pāyantika 69
+      base_file: fE4F0.txt
+      order: 120
+    fB43E:
+      title: CI_Pāyantika 70
+      base_file: fB43E.txt
+      order: 121
+    f49E2:
+      title: CI_Pāyantika 71
+      base_file: f49E2.txt
+      order: 122
+    f605B:
+      title: CI_Pāyantika 72
+      base_file: f605B.txt
+      order: 123
+    f55F7:
+      title: CI_Pāyantika 73
+      base_file: f55F7.txt
+      order: 124
+    fBC00:
+      title: CI_Pāyantika 74
+      base_file: fBC00.txt
+      order: 125
+    f4115:
+      title: CI_Pāyantika 75
+      base_file: f4115.txt
+      order: 126
+    f6C8C:
+      title: CI_Pāyantika 76
+      base_file: f6C8C.txt
+      order: 127
+    f8D26:
+      title: CI_Pāyantika 77
+      base_file: f8D26.txt
+      order: 128
+    fB3CF:
+      title: CI_Pāyantika 79
+      base_file: fB3CF.txt
+      order: 129
+    f343E:
+      title: CI_Pāyantika 80
+      base_file: f343E.txt
+      order: 130
+    fFA42:
+      title: CI_Pāyantika 81
+      base_file: fFA42.txt
+      order: 131
+    fF469:
+      title: CI_Pāyantika 82
+      base_file: fF469.txt
+      order: 132
+    f0109:
+      title: CI_Pāyantika 83
+      base_file: f0109.txt
+      order: 133
+    f55F9:
+      title: CI_Pāyantika 84
+      base_file: f55F9.txt
+      order: 134
+    f2DC4:
+      title: CI_Pāyantika 85
+      base_file: f2DC4.txt
+      order: 135
+    fF1F2:
+      title: CI_Pāyantika 86
+      base_file: fF1F2.txt
+      order: 136
+    f6967:
+      title: CI_Pāyantika 87
+      base_file: f6967.txt
+      order: 137
+    fE686:
+      title: CI_Pāyantika 88
+      base_file: fE686.txt
+      order: 138
+    f0D08:
+      title: CI_Pāyantika 89
+      base_file: f0D08.txt
+      order: 139
+    f030B:
+      title: CI_Pāyantika 90
+      base_file: f030B.txt
+      order: 140
+    fA5A7:
+      title: CI_Pratideśanīya 1
+      base_file: fA5A7.txt
+      order: 141
+    f2269:
+      title: CI_Pratideśanīya 2
+      base_file: f2269.txt
+      order: 142
+    f4396:
+      title: CI_Pratideśanīya 3
+      base_file: f4396.txt
+      order: 143
+    fBB1C:
+      title: CI_Pratideśanīya 4
+      base_file: fBB1C.txt
+      order: 144
+    f7454:
+      title: CI_Śaikṣadharma
+      base_file: f7454.txt
+      order: 145
+    fA289:
+      title: CI_Adhikaraṇaśamatha
+      base_file: fA289.txt
+      order: 146
+    fAE96:
+      title: CI_Closing verses
+      base_file: fAE96.txt
+      order: 147
+    f8489:
+      title: CI_Colophon
+      base_file: f8489.txt
+      order: 148
+  chapter_to_tile:
+    CI: Vinayavibhaṅga
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
